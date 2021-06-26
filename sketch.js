@@ -5,13 +5,13 @@ var m1,m2,m3;
 
 
 function preload() {
- bgImg = loadImage("images/garden.png");
-   cat1= loadAnimation("images/cat1.png"); 
- cat2=loadAnimation("images/cat2.png","images/cat3.png");
- cat3= loadAnimation("images/cat4.png"); 
- m1=loadAnimation("images/mouse1.png");
- m2=loadAnimation("images/mouse2.png","images/mouse3.png");
- m3=loadAnimation("images/mouse4.png");
+ bgImg = loadImage("garden.png");
+   cat1= loadAnimation("cat1.png"); 
+ cat2=loadAnimation("cat2.png","cat3.png");
+ cat3= loadAnimation("cat4.png"); 
+ m1=loadAnimation("mouse1.png");
+ m2=loadAnimation("mouse2.png","mouse3.png");
+ m3=loadAnimation("mouse4.png");
  
  
  //load the images here
